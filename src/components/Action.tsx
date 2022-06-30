@@ -79,7 +79,8 @@ type Props ={
 
 const styles = StyleSheet.create({
   actionHolder: {
-      width: "100%",
+      width: "auto",
+      display: "inline-block",
       margin: "auto",
       position: "relative",
       textAlign: "left",
